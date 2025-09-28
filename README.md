@@ -1,8 +1,7 @@
-![Anvil Rain](images/AnvilRain.png)
 ```python
 ### Items
 ----------------------------------------|-------------|------
-Anvil Rain                              | 200         | 0
+![Anvil Rain](images/AnvilRain.png) Anvil Rain                              | 200         | 0
 Hidden Treasure                         | 201         | 0
 Platinum Hidden Treasure (UNRELEASED)   | 201         | 4096
 Healing Elixir                          | 202         | 0
