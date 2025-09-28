@@ -1,7 +1,12 @@
 ```python
 ### Items
 ----------------------------------------|-------------|------
-![alt text](https://skylanderscharacterlist.com/wp-content/uploads/2013/07/AnvilRain.png)Anvil Rain                                    | 200         | 0
+```
+```
+![Anvil Rain](https://skylanderscharacterlist.com/wp-content/uploads/2013/07/AnvilRain.png)
+```python
+```
+Anvil Rain                              | 200         | 0
 Hidden Treasure                         | 201         | 0
 Platinum Hidden Treasure (UNRELEASED)   | 201         | 4096
 Healing Elixir                          | 202         | 0
