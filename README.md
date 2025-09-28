@@ -3,19 +3,12 @@ test1
 
 ----------------------------------------|-------------|------
 Anvil Rain                              | 200         | 0
-
 Hidden Treasure                         | 201         | 0
-
 Platinum Hidden Treasure (UNRELEASED)   | 201         | 4096
-
 Healing Elixir                          | 202         | 0
-
 Ghost Pirate                            | 203         | 0
-
 Time Twister Hourglass                  | 204         | 0
-
 Sky-Iron                                | 205         | 0
-
 Winged Boots                            | 206         | 0
 Sparx the Dragonfly                     | 207         | 0
 Dragonfire Cannon                       | 208         | 4614
