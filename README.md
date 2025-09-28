@@ -18,8 +18,9 @@ Legendary Hand of Fate                  | 230         | 13315
 Piggy Bank                              | 231         | 12288
 Rocket Ram                              | 232         | 12288
 Tiki Speaky                             | 233         | 12288
-```
 ----------------------------------------|-------------|------
+```
+```python
 ### Traps
 --------------------------------------|-------------|------
 Biter's Bane (Magic Log Holder)       | 210         | 12290
@@ -82,6 +83,8 @@ Beam Scream (Light Yawn)              | 219         | 12315
 The Kaos Trap                         | 220         | 12318
 Ultimate Kaos Trap                    | 220         | 13599
 --------------------------------------|-------------|------
+```
+```python
 ### Toys For Bob Expansions
 -------------------------|-------------|------
 Dragon's Peak            | 300         | 0
@@ -96,6 +99,8 @@ Midnight Museum          | 308         | 12800
 Gryphon Park Observatory | 310         | 20480
 Enchanted Elven Forest   | 311         | 20480
 -------------------------|-------------|------
+```
+```python
 ### SSA Legendaries
 ------------------------|-------------|--
 Legendary Bash          | 404         | 0
@@ -103,6 +108,8 @@ Legendary Spyro         | 416         | 0
 Legendary Trigger Happy | 419         | 0
 Legendary Chop Chop     | 430         | 0
 ------------------------|-------------|--
+```
+```python
 ### Trap Team
 -----------------------------|-------------|------
 Gusto                        | 450         | 12288
@@ -159,6 +166,8 @@ Spotlight                    | 483         | 12288
 Knight Mare                  | 484         | 12288
 Blackout                     | 485         | 12288
 -----------------------------|-------------|------
+```
+```python
 ### Minis
 Skylander                 | CharacterID | VariantID
 --------------------------|-------------|------
@@ -190,9 +199,10 @@ Mini-Jini (Mini)          | 542         | 12288
 Eye-Small (Sidekick)      | 543         | 4096
 Eye-Small (Mini)          | 543         | 12288
 --------------------------|-------------|------
+```
 
+```python
 ### SWAP Force
-Skylander                | CharacterID | VariantID
 -------------------------|-------------|------
 Jet                      | 1000        | 8192
 Ranger                   | 1001        | 8192
@@ -291,7 +301,8 @@ Rip Tide (Green?)        | 3014        | 8214
 Punk Shock               | 3015        | 8192
 Template Legacy          | 3999        | 8192
 -------------------------|-------------|------
-
+```
+```python
 ### SWAP Force Expansions/Battle Pieces
 Skylander          | CharacterID | VariantID
 -------------------|-------------|-----
@@ -300,3 +311,4 @@ Tower of Time      | 3301        | 8192
 Fiery Forge        | 3301        | 8710
 Arkeyan Crossbow   | 3302        | 0
 -------------------|-------------|-----
+```
