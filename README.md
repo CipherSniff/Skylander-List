@@ -1,25 +1,25 @@
 ### Items
 test1
 
---------------------------------------|-------------|------
-Anvil Rain                            | 200         | 0
-Hidden Treasure                       | 201         | 0
-Platinum Hidden Treasure (UNRELEASED) | 201         | 4096
-Healing Elixir                        | 202         | 0
-Ghost Pirate Swords                   | 203         | 0
-Time Twister Hourglass                | 204         | 0
-Sky-Iron Shield                       | 205         | 0
-Winged Boots                          | 206         | 0
-Sparx the Dragonfly                   | 207         | 0
-Dragonfire Cannon                     | 208         | 4614
-Golden Dragonfire Cannon              | 208         | 5634
-Scorpion Striker Catapult             | 209         | 4614
-Hand of Fate                          | 230         | 12288
-Legendary Hand of Fate                | 230         | 13315
-Piggy Bank                            | 231         | 12288
-Rocket Ram                            | 232         | 12288
-Tiki Speaky                           | 233         | 12288
---------------------------------------|-------------|------
+----------------------------------------|-------------|------
+Anvil Rain                              | 200         | 0
+Hidden Treasure                         | 201         | 0
+Platinum Hidden Treasure (UNRELEASED)   | 201         | 4096
+Healing Elixir                          | 202         | 0
+Ghost Pirate                            | 203         | 0
+Time Twister Hourglass                  | 204         | 0
+Sky-Iron                                | 205         | 0
+Winged Boots                            | 206         | 0
+Sparx the Dragonfly                     | 207         | 0
+Dragonfire Cannon                       | 208         | 4614
+Golden Dragonfire Cannon                | 208         | 5634
+Scorpion Striker Catapult               | 209         | 4614
+Hand of Fate                            | 230         | 12288
+Legendary Hand of Fate                  | 230         | 13315
+Piggy Bank                              | 231         | 12288
+Rocket Ram                              | 232         | 12288
+Tiki Speaky                             | 233         | 12288
+----------------------------------------|-------------|------
 ### Traps
 --------------------------------------|-------------|------
 Biter's Bane (Magic Log Holder)       | 210         | 12290
