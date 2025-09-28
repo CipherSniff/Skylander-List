@@ -1,11 +1,6 @@
 ```python
 ### Items
 ----------------------------------------|-------------|------
-```
-```
-![Anvil Rain](https://skylanderscharacterlist.com/wp-content/uploads/2013/07/AnvilRain.png)
-```python
-```
 Anvil Rain                              | 200         | 0
 Hidden Treasure                         | 201         | 0
 Platinum Hidden Treasure (UNRELEASED)   | 201         | 4096
