@@ -1,6 +1,5 @@
-### Toys For Bob Items/Traps
-Skylander                             | CharacterID | VariantID
---------------------------------------|-------------|----------
+### Items
+--------------------------------------|-------------|------
 Anvil Rain                            | 200         | 0
 Hidden Treasure                       | 201         | 0
 Platinum Hidden Treasure (UNRELEASED) | 201         | 4096
@@ -13,6 +12,14 @@ Sparx the Dragonfly                   | 207         | 0
 Dragonfire Cannon                     | 208         | 4614
 Golden Dragonfire Cannon              | 208         | 5634
 Scorpion Striker Catapult             | 209         | 4614
+Hand of Fate                          | 230         | 12288
+Legendary Hand of Fate                | 230         | 13315
+Piggy Bank                            | 231         | 12288
+Rocket Ram                            | 232         | 12288
+Tiki Speaky                           | 233         | 12288
+--------------------------------------|-------------|------
+### Traps
+--------------------------------------|-------------|------
 Biter's Bane (Magic Log Holder)       | 210         | 12290
 Sorcerous Skull (Magic Skull)         | 210         | 12296
 Axe of Illusion (Magic Axe)           | 210         | 12299
@@ -71,20 +78,10 @@ Heavenly Hawk (Light Hawk)            | 219         | 12303
 Shining Ship (Light Rocket)           | 219         | 12309
 Beam Scream (Light Yawn)              | 219         | 12315
 The Kaos Trap                         | 220         | 12318
-Ultimate Kaos Trap                    | 220         | 13343
-Hand of Fate                          | 230         | 12288
-Legendary Hand of Fate                | 230         | 13315
-Piggy Bank                            | 231         | 12288
-Rocket Ram                            | 232         | 12288
-Tiki Speaky                           | 233         | 12288
-Mystery Chest (Bronze)                | 235         | 20481
-Mystery Chest (Silver)                | 235         | 20482
-Mystery Chest (Gold)                  | 235         | 20483
-Mystery Chest (Cursed Tiki Temple)    | 235         | 20503
-Mystery Chest (Lost Imaginite Mines)  | 235         | 20505
+Ultimate Kaos Trap                    | 220         | 13599
+--------------------------------------|-------------|------
 ### Toys For Bob Expansions
-Skylander                | CharacterID | VariantID
--------------------------|-------------|----------
+-------------------------|-------------|------
 Dragon's Peak            | 300         | 0
 Empire of Ice            | 301         | 0
 Pirate Seas              | 302         | 0
@@ -96,19 +93,19 @@ Sunscraper Spire         | 307         | 12800
 Midnight Museum          | 308         | 12800
 Gryphon Park Observatory | 310         | 20480
 Enchanted Elven Forest   | 311         | 20480
+-------------------------|-------------|------
 ### SSA Legendaries
-Skylander               | CharacterID | VariantID
-------------------------|-------------|----------
+------------------------|-------------|--
 Legendary Bash          | 404         | 0
 Legendary Spyro         | 416         | 0
 Legendary Trigger Happy | 419         | 0
 Legendary Chop Chop     | 430         | 0
+------------------------|-------------|--
 ### Trap Team
-Skylander                    | CharacterID | VariantID
------------------------------|-------------|----------
+-----------------------------|-------------|------
 Gusto                        | 450         | 12288
 Thunderbolt                  | 451         | 12288
-Thunderbolt (Clear?)         | 451         | 12317
+Thunderbolt Special          | 451         | 12317
 Fling Kong                   | 452         | 12288
 Blades                       | 453         | 12288
 Legendary Blades             | 453         | 13315
@@ -144,7 +141,7 @@ Tread Head                   | 473         | 12288
 Bushwhack                    | 474         | 12288
 Legendary Bushwhack          | 474         | 13315
 Tuff Luck                    | 475         | 12288
-Tuff Luck (Clear?)           | 475         | 12317
+Tuff Luck Special            | 475         | 12317
 Food Fight                   | 476         | 12288
 Dark Food Fight              | 476         | 13314
 Instant Food Fight           | 476         | 13327
@@ -152,16 +149,17 @@ High Five                    | 477         | 12288
 Krypt King                   | 478         | 12288
 Nitro Krypt King             | 478         | 13314
 Short Cut                    | 479         | 12288
-Short Cut (Clear?)           | 479         | 12317
+Short Cut Special            | 479         | 12317
 Bat Spin                     | 480         | 12288
 Funny Bone                   | 481         | 12288
 Knight Light                 | 482         | 12288
 Spotlight                    | 483         | 12288
 Knight Mare                  | 484         | 12288
 Blackout                     | 485         | 12288
-### Minis/Sidekicks
+-----------------------------|-------------|------
+### Minis
 Skylander                 | CharacterID | VariantID
---------------------------|-------------|----------
+--------------------------|-------------|------
 Bop                       | 502         | 12288
 Spry                      | 503         | 12288
 Hijinx                    | 504         | 12288
@@ -189,10 +187,11 @@ Mini-Jini (Sidekick)      | 542         | 4096
 Mini-Jini (Mini)          | 542         | 12288
 Eye-Small (Sidekick)      | 543         | 4096
 Eye-Small (Mini)          | 543         | 12288
+--------------------------|-------------|------
 
 ### SWAP Force
 Skylander                | CharacterID | VariantID
--------------------------|-------------|----------
+-------------------------|-------------|------
 Jet                      | 1000        | 8192
 Ranger                   | 1001        | 8192
 Legendary Ranger         | 1001        | 9219
@@ -289,11 +288,13 @@ Rip Tide                 | 3014        | 8192
 Rip Tide (Green?)        | 3014        | 8214
 Punk Shock               | 3015        | 8192
 Template Legacy          | 3999        | 8192
+-------------------------|-------------|------
 
 ### SWAP Force Expansions/Battle Pieces
 Skylander          | CharacterID | VariantID
--------------------|-------------|----------
+-------------------|-------------|-----
 Sheep Wreck Island | 3300        | 8192
 Tower of Time      | 3301        | 8192
 Fiery Forge        | 3301        | 8710
-Arkeyan Crossbow   | 3302        | 8710
+Arkeyan Crossbow   | 3302        | 0
+-------------------|-------------|-----
